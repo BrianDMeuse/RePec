@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<JELLookUp>
+	<JELCodeToValue code="A" value="General Economics and Teaching"/>
+	<JELCodeToValue code="A1" value="General Economics"/>
+	<JELCodeToValue code="A10" value="General Economics: General"/>
+	<JELCodeToValue code="A11" value="Role of Economics; Role of Economists"/>
+	<JELCodeToValue code="A12" value="Relation of Economics to Other Disciplines"/>
+	<JELCodeToValue code="A13" value="Relation of Economics to Social Values"/>
+	<JELCodeToValue code="A14" value="Sociology of Economics"/>
+	<JELCodeToValue code="A19" value="General Economics: Other"/>
+	<JELCodeToValue code="A2" value="Economics Education and Teaching of Economics"/>
+	<JELCodeToValue code="A20" value="Economic Education and Teaching of Economics: General"/>
+	<JELCodeToValue code="A21" value="Economic Education and Teaching of Economics: Pre-college"/>
+	<JELCodeToValue code="A22" value="Economic Education and Teaching of Economics: Undergraduate"/>
+	<JELCodeToValue code="A23" value="Economic Education and Teaching of Economics: Graduate"/>
+	<JELCodeToValue code="A29" value="Economic Education and Teaching of Economics: Other"/>
+	<JELCodeToValue code="A3" value="Multisubject Collective Works"/>
+	<JELCodeToValue code="A30" value="Collective Works: General"/>
+	<JELCodeToValue code="A31" value="Collected Writings of Individuals"/>
+	<JELCodeToValue code="A32" value="Volumes"/>
+	<JELCodeToValue code="A33" value="Handbooks"/>
+	<JELCodeToValue code="A39" value="Collective Works: Other"/>
+	<JELCodeToValue code="B" value="Schools of Economic Thought and Methodology"/>
+	<JELCodeToValue code="B0" value="General"/>
+	<JELCodeToValue code="B00" value="History of Economic Thought, Methodology, and Heterodox Approaches"/>
+	<JELCodeToValue code="B1" value="History of Economic Thought through 1925"/>
+	<JELCodeToValue code="B10" value="History of Economic Thought through 1925: General"/>
+	<JELCodeToValue code="B11" value="History of Economic Thought: Preclassical (Ancient, Medieval, Mercantilist, Physiocratic)"/>
+	<JELCodeToValue code="B12" value="History of Economic Thought: Classical (includes Adam Smith)"/>
+	<JELCodeToValue code="B13" value="History of Economic Thought: Neoclassical through 1925 (Austrian, Marshallian, Walrasian, Stockholm School)"/>
+	<JELCodeToValue code="B14" value="History of Economic Thought through 1925: Socialist; Marxist"/>
+	<JELCodeToValue code="B15" value="History of Economic Thought through 1925: Historical; Institutional; Evolutionary"/>
+	<JELCodeToValue code="B16" value="History of Economic Thought: Quantitative and Mathematical"/>
+	<JELCodeToValue code="B19" value="History of Economic Thought through 1925: Other"/>
+	<JELCodeToValue code="B2" value="History of Economic Thought since 1925"/>
+	<JELCodeToValue code="B20" value="History of Economic Thought since 1925: General"/>
+	<JELCodeToValue code="B21" value="History of Economic Thought: Microeconomics"/>
+	<JELCodeToValue code="B22" value="History of Economic Thought: Macroeconomics"/>
+	<JELCodeToValue code="B23" value="History of Economic Thought: Quantitative and Mathematical"/>
+	<JELCodeToValue code="B24" value="History of Economic Thought since 1925: Socialist; Marxist; Sraffian"/>
+	<JELCodeToValue code="B25" value="History of Economic Thought since 1925: Historical; Institutional; Evolutionary; Austrian"/>
+	<JELCodeToValue code="B26" value="History of Economic Thought since 1925: Financial Economics"/>
+	<JELCodeToValue code="B29" value="History of Economic Thought since 1925: Other"/>
+	<JELCodeToValue code="B3" value="History of Thought: Individuals"/>
+	<JELCodeToValue code="B30" value="History of Economic Thought: Individuals: General"/>
+	<JELCodeToValue code="B31" value="History of Economic Thought: Individuals"/>
+	<JELCodeToValue code="B32" value="Obituaries"/>
+	<JELCodeToValue code="B4" value="Economic Methodology"/>
+	<JELCodeToValue code="B40" value="Economic Methodology: General"/>
+	<JELCodeToValue code="B41" value="Economic Methodology"/>
+	<JELCodeToValue code="B49" value="Economic Methodology: Other"/>
+	<JELCodeToValue code="B5" value="Current Heterodox Approaches"/>
+	<JELCodeToValue code="B50" value="Current Heterodox Approaches: General"/>
+	<JELCodeToValue code="B51" value="Current Heterodox Approaches: Socialist; Marxian; Sraffian"/>
+	<JELCodeToValue code="B52" value="Current Heterodox Approaches: Institutional; Evolutionary"/>
+	<JELCodeToValue code="B53" value="Current Heterodox Approaches: Austrian"/>
+	<JELCodeToValue code="B54" value="Feminist Economics"/>
+	<JELCodeToValue code="B59" value="Current Heterodox Approaches: Other"/>
+	<JELCodeToValue code="C" value="Mathematical and Quantitative Methods"/>
+	<JELCodeToValue code="C0" value="General"/>
+	<JELCodeToValue code="C00" value="Mathematical and Quantitative Methods: General"/>
+	<JELCodeToValue code="C01" value="Econometrics"/>
+	<JELCodeToValue code="C02" value="Mathematical Methods"/>
+	<JELCodeToValue code="C1" value="Econometric and Statistical Methods: General"/>
+	<JELCodeToValue code="C10" value="Econometric and Statistical Methods and Methodology: General"/>
+	<JELCodeToValue code="C11" value="Bayesian Analysis: General"/>
+	<JELCodeToValue code="C12" value="Hypothesis Testing: General"/>
+	<JELCodeToValue code="C13" value="Estimation: General"/>
+	<JELCodeToValue code="C14" value="Semiparametric and Nonparametric Methods: General"/>
+	<JELCodeToValue code="C15" value="Statistical Simulation Methods: General"/>
+	<JELCodeToValue code="C18" value="Methodological Issues: General"/>
+	<JELCodeToValue code="C19" value="Econometric and Statistical Methods: Other"/>
+	<JELCodeToValue code="C2" value="Single Equation Models; Single Variables"/>
+	<JELCodeToValue code="C20" value="Single Equation Models; Single Variables: General"/>
+	<JELCodeToValue code="C21" value="Single Equation Models; Single Variables: Cross-Sectional Models; Spatial Models; Treatment Effect Models; Quantile Regressions"/>
+	<JELCodeToValue code="C22" value="Single Equation Models; Single Variables: Time-Series Models; Dynamic Quantile Regressions; Dynamic Treatment Models"/>
+	<JELCodeToValue code="C23" value="Single Equation Models; Single Variables: Models with Panel Data; Longitudinal Data; Spatial Time Series"/>
+	<JELCodeToValue code="C24" value="Single Equation Models; Single Variables: Truncated and Censored Models; Switching Regression Models"/>
+	<JELCodeToValue code="C25" value="Single Equation Models; Single Variables: Discrete Regression and Qualitative Choice Models; Discrete Regressors; Proportions"/>
+	<JELCodeToValue code="C26" value="Single Equation Models: Single Variables: Instrumental Variables (IV) Estimation"/>
+	<JELCodeToValue code="C29" value="Single Equation Models; Single Variables: Other"/>
+	<JELCodeToValue code="C3" value="Multiple or Simultaneous Equation Models"/>
+	<JELCodeToValue code="C30" value="Multiple or Simultaneous Equation Models; Multiple Variables: General"/>
+	<JELCodeToValue code="C31" value="Multiple or Simultaneous Equation Models: Cross-Sectional Models; Spatial Models; Treatment Effect Models; Quantile Regressions; Social Interaction Models"/>
+	<JELCodeToValue code="C32" value="Multiple or Simultaneous Equation Models: Time-Series Models; Dynamic Quantile Regressions; Dynamic Treatment Models"/>
+	<JELCodeToValue code="C33" value="Multiple or Simultaneous Equation Models: Models with Panel Data; Longitudinal Data; Spatial Time Series"/>
+	<JELCodeToValue code="C34" value="Multiple or Simultaneous Equation Models: Truncated and Censored Models; Switching Regression Models"/>
+	<JELCodeToValue code="C35" value="Multiple or Simultaneous Equation Models: Discrete Regression and Qualitative Choice Models; Discrete Regressors; Proportions"/>
+	<JELCodeToValue code="C36" value="Multiple or Simultaneous Equation Models: Instrumental Variables (IV) Estimation"/>
+	<JELCodeToValue code="C38" value="Multiple or Simultaneous Equation Models: Classification Methods; Cluster Analysis; Factor Analysis"/>
+	<JELCodeToValue code="C39" value="Multiple or Simultaneous Equation Models: Other"/>
+	<JELCodeToValue code="C4" value="Econometric and Statistical Methods: Special Topics"/>
+	<JELCodeToValue code="C40" value="Econometric and Statistical Methods: Special Topics: General"/>
+	<JELCodeToValue code="C41" value="Duration Analysis; Optimal Timing Strategies"/>
+	<JELCodeToValue code="C42" value="Classification Discontinued 2008. See C83."/>
+	<JELCodeToValue code="C43" value="Index Numbers and Aggregation; leading indicators"/>
+	<JELCodeToValue code="C44" value="Statistical Decision Theory; Operations Research"/>
+	<JELCodeToValue code="C45" value="Neural Networks and Related Topics"/>
+	<JELCodeToValue code="C46" value="Specific Distributions; Specific Statistics"/>
+	<JELCodeToValue code="C49" value="Econometric and Statistical Methods: Special Topics: Other"/>
+	<JELCodeToValue code="C5" value="Econometric Modeling"/>
+	<JELCodeToValue code="C50" value="Econometric Modeling: General"/>
+	<JELCodeToValue code="C51" value="Model Construction and Estimation"/>
+	<JELCodeToValue code="C52" value="Model Evaluation, Validation, and Selection"/>
+	<JELCodeToValue code="C53" value="Forecasting Methods; Simulation Methods "/>
+	<JELCodeToValue code="C54" value="Quantitative Policy Modeling"/>
+	<JELCodeToValue code="C58" value="Financial Econometrics"/>
+	<JELCodeToValue code="C59" value="Econometric Modeling: Other"/>
+	<JELCodeToValue code="C6" value="Mathematical Methods and Programming"/>
+	<JELCodeToValue code="C60" value="Mathematical Methods; Programming Models; Mathematical and Simulation Modeling: General"/>
+	<JELCodeToValue code="C61" value="Optimization Techniques; Programming Models; Dynamic Analysis"/>
+	<JELCodeToValue code="C62" value="Existence and Stability Conditions of Equilibrium"/>
+	<JELCodeToValue code="C63" value="Computational Techniques; Simulation Modeling"/>
+	<JELCodeToValue code="C65" value="Miscellaneous Mathematical Tools"/>
+	<JELCodeToValue code="C67" value="Input-Output Models"/>
+	<JELCodeToValue code="C68" value="Computable General Equilibrium Models"/>
+	<JELCodeToValue code="C69" value="Mathematical Methods; Programming Models; Mathematical and Simulation Modeling: Other"/>
+	<JELCodeToValue code="C7" value="Game Theory and Bargaining Theory"/>
+	<JELCodeToValue code="C70" value="Game Theory and Bargaining Theory: General"/>
+	<JELCodeToValue code="C71" value="Cooperative Games"/>
+	<JELCodeToValue code="C72" value="Noncooperative Games"/>
+	<JELCodeToValue code="C73" value="Stochastic and Dynamic Games; Evolutionary Games; Repeated Games"/>
+	<JELCodeToValue code="C78" value="Bargaining Theory; Matching Theory"/>
+	<JELCodeToValue code="C79" value="Game Theory and Bargaining Theory: Other"/>
+	<JELCodeToValue code="C8" value="Data Collection and Data Estimation Methodology; Computer Programs"/>
+	<JELCodeToValue code="C80" value="Data Collection and Data Estimation Methodology; Computer Programs: General"/>
+	<JELCodeToValue code="C81" value="Methodology for Collecting, Estimating, and Organizing Microeconomic Data; Data Access"/>
+	<JELCodeToValue code="C82" value="Methodology for Collecting, Estimating, and Organizing Macroeconomic Data; Data Access"/>
+	<JELCodeToValue code="C83" value="Survey Methods; Sampling Methods"/>
+	<JELCodeToValue code="C87" value="Econometric Software"/>
+	<JELCodeToValue code="C88" value="Data Collection and Data Estimation Methodology; Computer Programs: Other Computer Software"/>
+	<JELCodeToValue code="C89" value="Data Collection and Data Estimation Methodology; Computer Programs: Other"/>
+	<JELCodeToValue code="C9" value="Design of Experiments"/>
+	<JELCodeToValue code="C90" value="Design of Experiments: General"/>
+	<JELCodeToValue code="C91" value="Design of Experiments: Laboratory, Individual"/>
+	<JELCodeToValue code="C92" value="Design of Experiments: Laboratory, Group Behavior"/>
+	<JELCodeToValue code="C93" value="Field Experiments"/>
+	<JELCodeToValue code="C99" value="Design of Experiments: Other"/>
+	<JELCodeToValue code="D" value="Microeconomics"/>
+	<JELCodeToValue code="D0" value="General"/>
+	<JELCodeToValue code="D00" value="Microeconomics: General"/>
+	<JELCodeToValue code="D01" value="Microeconomic Behavior: Underlying Principles"/>
+	<JELCodeToValue code="D02" value="Institutions: Design, Formation, and Operations"/>
+	<JELCodeToValue code="D03" value="Behavioral Economics: Underlying Principles"/>
+	<JELCodeToValue code="D04" value="Microeconomic Policy: Formulation; Implementation; Evaluation"/>
+	<JELCodeToValue code="D1" value="Household Behavior and Family Economics"/>
+	<JELCodeToValue code="D10" value="Household Behavior: General"/>
+	<JELCodeToValue code="D11" value="Consumer Economics: Theory"/>
+	<JELCodeToValue code="D12" value="Consumer Economics: Empirical Analysis"/>
+	<JELCodeToValue code="D13" value="Household Production and Intrahousehold Allocation"/>
+	<JELCodeToValue code="D14" value="Personal Finance"/>
+	<JELCodeToValue code="D18" value="Consumer Protection"/>
+	<JELCodeToValue code="D19" value="Household Behavior and Family Economics: Other"/>
+	<JELCodeToValue code="D2" value="Production and Organizations"/>
+	<JELCodeToValue code="D20" value="Production and Organizations: General"/>
+	<JELCodeToValue code="D21" value="Firm Behavior: Theory"/>
+	<JELCodeToValue code="D22" value="Firm Behavior: Empirical Analysis"/>
+	<JELCodeToValue code="D23" value="Organizational Behavior; Transaction Costs; Property Rights"/>
+	<JELCodeToValue code="D24" value="Production; Cost; Capital, Total Factor, and Multifactor Productivity; Capacity"/>
+	<JELCodeToValue code="D29" value="Production and Organizations: Other"/>
+	<JELCodeToValue code="D3" value="Distribution"/>
+	<JELCodeToValue code="D30" value="Distribution: General"/>
+	<JELCodeToValue code="D31" value="Personal Income, Wealth, and Their Distributions"/>
+	<JELCodeToValue code="D33" value="Factor Income Distribution"/>
+	<JELCodeToValue code="D39" value="Distribution: Other"/>
+	<JELCodeToValue code="D4" value="Market Structure and Pricing"/>
+	<JELCodeToValue code="D40" value="Market Structure and Pricing: General"/>
+	<JELCodeToValue code="D41" value="Market Structure and Pricing: Perfect Competition"/>
+	<JELCodeToValue code="D42" value="Market Structure and Pricing: Monopoly"/>
+	<JELCodeToValue code="D43" value="Market Structure and Pricing: Oligopoly and Other Forms of Market Imperfection"/>
+	<JELCodeToValue code="D44" value="Auctions"/>
+	<JELCodeToValue code="D45" value="Rationing; Licensing"/>
+	<JELCodeToValue code="D46" value="Value Theory"/>
+	<JELCodeToValue code="D49" value="Market Structure and Pricing: Other"/>
+	<JELCodeToValue code="D5" value="General Equilibrium and Disequilibrium"/>
+	<JELCodeToValue code="D50" value="General Equilibrium and Disequilibrium: General"/>
+	<JELCodeToValue code="D51" value="Exchange and Production Economies"/>
+	<JELCodeToValue code="D52" value="Incomplete Markets"/>
+	<JELCodeToValue code="D53" value="General Equilibrium and Disequilibrium: Financial Markets"/>
+	<JELCodeToValue code="D57" value="General Equilibrium and Disequilibrium: Input-Output Tables and Analysis"/>
+	<JELCodeToValue code="D58" value="Computable and Other Applied General Equilibrium Models"/>
+	<JELCodeToValue code="D59" value="General Equilibrium and Disequilibrium: Other"/>
+	<JELCodeToValue code="D6" value="Welfare Economics"/>
+	<JELCodeToValue code="D60" value="Welfare Economics: General"/>
+	<JELCodeToValue code="D61" value="Allocative Efficiency; Cost-Benefit Analysis"/>
+	<JELCodeToValue code="D62" value="Externalities"/>
+	<JELCodeToValue code="D63" value="Equity, Justice, Inequality, and Other Normative Criteria and Measurement"/>
+	<JELCodeToValue code="D64" value="Altruism"/>
+	<JELCodeToValue code="D69" value="Welfare Economics: Other"/>
+	<JELCodeToValue code="D7" value="Analysis of Collective Decision-Making"/>
+	<JELCodeToValue code="D70" value="Analysis of Collective Decision-Making: General"/>
+	<JELCodeToValue code="D71" value="Social Choice; Clubs; Committees; Associations"/>
+	<JELCodeToValue code="D72" value="Political Processes: Rent-seeking, Elections, Legislatures, and Voting Behavior"/>
+	<JELCodeToValue code="D73" value="Bureaucracy; Administrative Processes in Public Organizations; Corruption"/>
+	<JELCodeToValue code="D74" value="Conflict; Conflict Resolution; Alliances"/>
+	<JELCodeToValue code="D78" value="Positive Analysis of Policy-Making and Implementation"/>
+	<JELCodeToValue code="D79" value="Analysis of Collective Decision-Making: Other"/>
+	<JELCodeToValue code="D8" value="Information, Knowledge, and Uncertainty"/>
+	<JELCodeToValue code="D80" value="Information, Knowledge, and Uncertainty: General"/>
+	<JELCodeToValue code="D81" value="Criteria for Decision-Making under Risk and Uncertainty"/>
+	<JELCodeToValue code="D82" value="Asymmetric and Private Information"/>
+	<JELCodeToValue code="D83" value="Search; Learning; Information and Knowledge; Communication; Belief"/>
+	<JELCodeToValue code="D84" value="Expectations; Speculations"/>
+	<JELCodeToValue code="D85" value="Network Formation and Analysis: Theory"/>
+	<JELCodeToValue code="D86" value="Economics of Contract: Theory"/>
+	<JELCodeToValue code="D87" value="Neuroeconomics"/>
+	<JELCodeToValue code="D89" value="Information and Uncertainty: Other"/>
+	<JELCodeToValue code="D9" value="Intertemporal Choice and Growth"/>
+	<JELCodeToValue code="D90" value="Intertemporal Choice and Growth: General"/>
+	<JELCodeToValue code="D91" value="Intertemporal Consumer Choice; Life Cycle Models and Saving"/>
+	<JELCodeToValue code="D92" value="Intertemporal Firm Choice and Growth, Financing, Investment, and Capacity"/>
+	<JELCodeToValue code="D99" value="Intertemporal Choice and Growth: Other"/>
+	<JELCodeToValue code="E" value="Macroeconomics and Monetary Economics"/>
+	<JELCodeToValue code="E0" value="General"/>
+	<JELCodeToValue code="E00" value="Macroeconomics and Monetary Economics: General"/>
+	<JELCodeToValue code="E01" value="Measurement and Data on National Income and Product Accounts and Wealth; Environmental Accounts"/>
+	<JELCodeToValue code="E02" value="Institutions and the Macroeconomy"/>
+	<JELCodeToValue code="E10" value="General Aggregative Models: General"/>
+	<JELCodeToValue code="E11" value="General Aggregative Models: Marxian; Sraffian; Institutional; Evolutionary"/>
+	<JELCodeToValue code="E12" value="General Aggregative Models: Keynes; Keynesian; Post-Keynesian"/>
+	<JELCodeToValue code="E13" value="General Aggregative Models: Neoclassical"/>
+	<JELCodeToValue code="E17" value="General Aggregative Models: Forecasting and Simulation: Models and Application"/>
+	<JELCodeToValue code="E19" value="General Aggregative Models: Other"/>
+	<JELCodeToValue code="E2" value="Macroeconomics: Consumption, Saving, Production, Employment, and Investment"/>
+	<JELCodeToValue code="E20" value="Macroeconomics: Consumption, Saving, Production, Employment, and Investment: General (includes Measurement and Data)"/>
+	<JELCodeToValue code="E21" value="Macroeconomics: Consumption; Saving; Wealth"/>
+	<JELCodeToValue code="E22" value="Capital; Investment; Capacity"/>
+	<JELCodeToValue code="E23" value="Macroeconomics: Production"/>
+	<JELCodeToValue code="E24" value="Employment; Unemployment; Wages; Intergenerational Income Distribution; Aggregate Human Capital"/>
+	<JELCodeToValue code="E25" value="Aggregate Factor Income Distribution"/>
+	<JELCodeToValue code="E26" value="Informal Economy; Underground Economy"/>
+	<JELCodeToValue code="E27" value="Macroeconomics: Consumption, Saving, Production, Employment, and Investment: Forecasting and Simulation: Models and Applications"/>
+	<JELCodeToValue code="E29" value="Macroeconomics: Consumption, Saving, Production, Employment and Investment: Other"/>
+	<JELCodeToValue code="E3" value="Prices, Business Fluctuations, and Cycles"/>
+	<JELCodeToValue code="E30" value="Prices, Business Fluctuations, and Cycles: General (includes Measurement and Data)"/>
+	<JELCodeToValue code="E31" value="Price Level; Inflation; Deflation"/>
+	<JELCodeToValue code="E32" value="Business Fluctuations; Cycles"/>
+	<JELCodeToValue code="E37" value="Prices, Business Fluctuations, and Cycles: Forecasting and Simulation: Models and Application"/>
+	<JELCodeToValue code="E39" value="Prices, Business Fluctuations, and Cycles: Other"/>
+	<JELCodeToValue code="E4" value="Money and Interest Rates"/>
+	<JELCodeToValue code="E40" value="Money and Interest Rates: General"/>
+	<JELCodeToValue code="E41" value="Demand for Money"/>
+	<JELCodeToValue code="E42" value="Monetary Systems; Standards; Regimes; Government and the Monetary System; Payment Systems"/>
+	<JELCodeToValue code="E43" value="Interest Rates: Determination, Term Structure, and Effects"/>
+	<JELCodeToValue code="E44" value="Financial Markets and the Macroeconomy"/>
+	<JELCodeToValue code="E47" value="Money and Interest Rates: Forecasting and Simulation: Models and Application"/>
+	<JELCodeToValue code="E49" value="Money and Interest Rates: Other"/>
+	<JELCodeToValue code="E5" value="Monetary Policy, Central Banking, and the Supply of Money and Credit"/>
+	<JELCodeToValue code="E50" value="Monetary Policy, Central Banking, and the Supply of Money and Credit: General"/>
+	<JELCodeToValue code="E51" value="Money Supply; Credit; Money Multipliers"/>
+	<JELCodeToValue code="E52" value="Monetary Policy"/>
+	<JELCodeToValue code="E58" value="Central Banks and Their Policies"/>
+	<JELCodeToValue code="E59" value="Monetary Policy, Central Banking, and the Supply of Money and Credit: Other"/>
+	<JELCodeToValue code="E6" value="Macroeconomic Policy, Macroeconomic Aspects of Public Finance, and General Outlook"/>
+	<JELCodeToValue code="E60" value="Macroeconomic Policy, Macroeconomic Aspects of Public Finance, and General Outlook: General"/>
+	<JELCodeToValue code="E61" value="Policy Objectives; Policy Designs and Consistency; Policy Coordination"/>
+	<JELCodeToValue code="E62" value="Fiscal Policy"/>
+	<JELCodeToValue code="E63" value="Comparative or Joint Analysis of Fiscal and Monetary Policy; Stabilization; Treasury Policy"/>
+	<JELCodeToValue code="E64" value="Incomes Policy; Price Policy"/>
+	<JELCodeToValue code="E65" value="Studies of Particular Policy Episodes"/>
+	<JELCodeToValue code="E66" value="General Outlook and Conditions"/>
+	<JELCodeToValue code="E69" value="Macroeconomic Policy, Macroeconomic Aspects of Public Finance, and General Outlook: Other"/>
+	<JELCodeToValue code="F" value="International Economics"/>
+	<JELCodeToValue code="F0" value="General"/>
+	<JELCodeToValue code="F00" value="International Economics: General"/>
+	<JELCodeToValue code="F01" value="Global Outlook"/>
+	<JELCodeToValue code="F02" value="International Economic Order"/>
+	<JELCodeToValue code="F1" value="Trade"/>
+	<JELCodeToValue code="F10" value="Trade: General"/>
+	<JELCodeToValue code="F11" value="Neoclassical Models of Trade"/>
+	<JELCodeToValue code="F12" value="Models of Trade with Imperfect Competition and Scale Economies"/>
+	<JELCodeToValue code="F13" value="Trade Policy; International Trade Organizations"/>
+	<JELCodeToValue code="F14" value="Country and Industry Studies of Trade"/>
+	<JELCodeToValue code="F15" value="Economic Integration"/>
+	<JELCodeToValue code="F16" value="Trade and Labor Market Interactions"/>
+	<JELCodeToValue code="F17" value="Trade: Forecasting and Simulation"/>
+	<JELCodeToValue code="F18" value="Trade and Environment"/>
+	<JELCodeToValue code="F19" value="Trade: Other"/>
+	<JELCodeToValue code="F2" value="International Factor Movements and International Business"/>
+	<JELCodeToValue code="F20" value="International Factor Movements and International Business: General"/>
+	<JELCodeToValue code="F21" value="International Investment; Long-term Capital Movements"/>
+	<JELCodeToValue code="F22" value="International Migration"/>
+	<JELCodeToValue code="F23" value="Multinational Firms; International Business"/>
+	<JELCodeToValue code="F24" value="Remittances"/>
+	<JELCodeToValue code="F29" value="International Factor Movements: Other"/>
+	<JELCodeToValue code="F3" value="International Finance"/>
+	<JELCodeToValue code="F30" value="International Finance: General"/>
+	<JELCodeToValue code="F31" value="Foreign Exchange"/>
+	<JELCodeToValue code="F32" value="Current Account Adjustment; Short-term Capital Movements"/>
+	<JELCodeToValue code="F33" value="International Monetary Arrangements and Institutions"/>
+	<JELCodeToValue code="F34" value="International Lending and Debt Problems"/>
+	<JELCodeToValue code="F35" value="Foreign Aid"/>
+	<JELCodeToValue code="F36" value="Financial Aspects of Economic Integration"/>
+	<JELCodeToValue code="F37" value="International Finance Forecasting and Simulation: Models and Application"/>
+	<JELCodeToValue code="F39" value="International Finance: Other"/>
+	<JELCodeToValue code="F4" value="Macroeconomic Aspects of International Trade and Finance"/>
+	<JELCodeToValue code="F40" value="Macroeconomic Aspects of International Trade and Finance: General"/>
+	<JELCodeToValue code="F41" value="Open Economy Macroeconomics"/>
+	<JELCodeToValue code="F42" value="International Policy Coordination and Transmission"/>
+	<JELCodeToValue code="F43" value="Economic Growth of Open Economies"/>
+	<JELCodeToValue code="F44" value="International Business Cycles"/>
+	<JELCodeToValue code="F47" value="Macroeconomic Aspects of International Trade and Finance: Forecasting and Simulation: Models and Application"/>
+	<JELCodeToValue code="F49" value="Macroeconomic Aspects of International Trade and Finance: Other"/>
+	<JELCodeToValue code="F5" value="International Relations and International Political Economy"/>
+	<JELCodeToValue code="F50" value="International Relations and International Political Economy: General"/>
+	<JELCodeToValue code="F51" value="International Conflicts; Negotiations; Sanctions"/>
+	<JELCodeToValue code="F52" value="National Security; Economic Nationalism"/>
+	<JELCodeToValue code="F53" value="International Agreements and Observance; International Organizations"/>
+	<JELCodeToValue code="F54" value="Colonialism; Imperialism; Postcolonialism"/>
+	<JELCodeToValue code="F55" value="International Institutional Arrangements"/>
+	<JELCodeToValue code="F59" value="International Relations and International Political Economy: Other"/>
+	<JELCodeToValue code="G" value="Financial Economics"/>
+	<JELCodeToValue code="G0" value="General"/>
+	<JELCodeToValue code="G00" value="Financial Economics: General"/>
+	<JELCodeToValue code="G01" value="Financial Crises"/>
+	<JELCodeToValue code="G1" value="General Financial Markets"/>
+	<JELCodeToValue code="G10" value="General Financial Markets: General (includes Measurement and Data)"/>
+	<JELCodeToValue code="G11" value="Portfolio Choice; Investment Decisions"/>
+	<JELCodeToValue code="G12" value="Asset Pricing; Trading volume; Bond Interest Rates"/>
+	<JELCodeToValue code="G13" value="Contingent Pricing; Futures Pricing; option pricing"/>
+	<JELCodeToValue code="G14" value="Information and Market Efficiency; Event Studies"/>
+	<JELCodeToValue code="G15" value="International Financial Markets"/>
+	<JELCodeToValue code="G17" value="Financial Forecasting and Simulation"/>
+	<JELCodeToValue code="G18" value="General Financial Markets: Government Policy and Regulation"/>
+	<JELCodeToValue code="G19" value="General Financial Markets: Other"/>
+	<JELCodeToValue code="G2" value="Financial Institutions and Services"/>
+	<JELCodeToValue code="G20" value="Financial Institutions and Services: General"/>
+	<JELCodeToValue code="G21" value="Banks; Other Depository Institutions; Micro Finance Institutions; Mortgages"/>
+	<JELCodeToValue code="G22" value="Insurance; Insurance Companies"/>
+	<JELCodeToValue code="G23" value="Pension Funds; Other Private Financial Institutions; Institutional Investors"/>
+	<JELCodeToValue code="G24" value="Investment Banking; Venture Capital; Brokerage; Ratings and Ratings Agencies"/>
+	<JELCodeToValue code="G28" value="Financial Institutions and Services: Government Policy and Regulation"/>
+	<JELCodeToValue code="G29" value="Financial Institutions and Services: Other"/>
+	<JELCodeToValue code="G3" value="Corporate Finance and Governance"/>
+	<JELCodeToValue code="G30" value="Corporate Finance and Governance: General"/>
+	<JELCodeToValue code="G31" value="Capital Budgeting; Fixed Investment and Inventory Studies; Capacity"/>
+	<JELCodeToValue code="G32" value="Financing Policy; Financial Risk and Risk Management; Capital and Ownership Structure"/>
+	<JELCodeToValue code="G33" value="Bankruptcy; Liquidation"/>
+	<JELCodeToValue code="G34" value="Mergers; Acquisitions; Restructuring; Voting; Proxy Contests; Corporate Governance"/>
+	<JELCodeToValue code="G35" value="Payout Policy"/>
+	<JELCodeToValue code="G38" value="Corporate Finance and Governance: Government Policy and Regulation"/>
+	<JELCodeToValue code="G39" value="Corporate Finance and Governance: Other"/>
+	<JELCodeToValue code="H" value="Public Economics"/>
+	<JELCodeToValue code="H0" value="General"/>
+	<JELCodeToValue code="H00" value="Public Economics: General"/>
+	<JELCodeToValue code="H1" value="Structure and Scope of Government"/>
+	<JELCodeToValue code="H10" value="Structure and Scope of Government: General"/>
+	<JELCodeToValue code="H11" value="Structure, Scope, and Performance of Government"/>
+	<JELCodeToValue code="H12" value="Crisis Management"/>
+	<JELCodeToValue code="H19" value="Structure and Scope of Government: Other"/>
+	<JELCodeToValue code="H2" value="Taxation, Subsidies, and Revenue"/>
+	<JELCodeToValue code="H20" value="Taxation, Subsidies, and Revenue: General"/>
+	<JELCodeToValue code="H21" value="Taxation and Subsidies: Efficiency; Optimal Taxation"/>
+	<JELCodeToValue code="H22" value="Taxation and Subsidies: Incidence"/>
+	<JELCodeToValue code="H23" value="Taxation and Subsidies: Externalities; Redistributive Effects; Environmental Taxes and Subsidies"/>
+	<JELCodeToValue code="H24" value="Personal Income and Other Nonbusiness Taxes and Subsidies; includes inheritance and gift taxes"/>
+	<JELCodeToValue code="H25" value="Business Taxes and Subsidies including sales and value-added (VAT)"/>
+	<JELCodeToValue code="H26" value="Tax Evasion"/>
+	<JELCodeToValue code="H27" value="Taxation, Subsidies, and Revenues: Other Sources of Revenue"/>
+	<JELCodeToValue code="H29" value="Taxation and Subsidies: Other"/>
+	<JELCodeToValue code="H3" value="Fiscal Policies and Behavior of Economic Agents"/>
+	<JELCodeToValue code="H30" value="Fiscal Policies and Behavior of Economic Agents: General"/>
+	<JELCodeToValue code="H31" value="Fiscal Policies and Behavior of Economic Agents: Household"/>
+	<JELCodeToValue code="H32" value="Fiscal Policies and Behavior of Economic Agents: Firm"/>
+	<JELCodeToValue code="H39" value="Fiscal Policies and Behavior of Economic Agents: Other"/>
+	<JELCodeToValue code="H4" value="Publicly Provided Goods"/>
+	<JELCodeToValue code="H40" value="Publicly Provided Goods: General"/>
+	<JELCodeToValue code="H41" value="Public Goods"/>
+	<JELCodeToValue code="H42" value="Publicly Provided Private Goods"/>
+	<JELCodeToValue code="H43" value="Project Evaluation; Social Discount Rate"/>
+	<JELCodeToValue code="H44" value="Publicly Provided Goods: Mixed Markets"/>
+	<JELCodeToValue code="H49" value="Publicly Provided Goods: Other"/>
+	<JELCodeToValue code="H5" value="National Government Expenditures and Related Policies"/>
+	<JELCodeToValue code="H50" value="National Government Expenditures and Related Policies: General"/>
+	<JELCodeToValue code="H51" value="National Government Expenditures and Health"/>
+	<JELCodeToValue code="H52" value="National Government Expenditures and Education"/>
+	<JELCodeToValue code="H53" value="National Government Expenditures and Welfare Programs"/>
+	<JELCodeToValue code="H54" value="National Government Expenditures and Related Policies: Infrastructures; Other Public Investment and Capital Stock"/>
+	<JELCodeToValue code="H55" value="Social Security and Public Pensions"/>
+	<JELCodeToValue code="H56" value="National Security and War"/>
+	<JELCodeToValue code="H57" value="National Government Expenditures and Related Policies: Procurement"/>
+	<JELCodeToValue code="H59" value="National Government Expenditures and Related Policies: Other"/>
+	<JELCodeToValue code="H6" value="National Budget, Deficit, and Debt"/>
+	<JELCodeToValue code="H60" value="National Budget, Deficit, and Debt: General"/>
+	<JELCodeToValue code="H61" value="National Budget; Budget Systems"/>
+	<JELCodeToValue code="H62" value="National Deficit; Surplus"/>
+	<JELCodeToValue code="H63" value="National Debt; Debt Management; Sovereign Debt"/>
+	<JELCodeToValue code="H68" value="Forecasts of Budgets, Deficits, and Debt"/>
+	<JELCodeToValue code="H69" value="National Budget, Deficit, and Debt: Other"/>
+	<JELCodeToValue code="H7" value="State and Local Government; Intergovernmental Relations"/>
+	<JELCodeToValue code="H70" value="State and Local Government; Intergovernmental Relations: General"/>
+	<JELCodeToValue code="H71" value="State and Local Taxation, Subsidies, and Revenue"/>
+	<JELCodeToValue code="H72" value="State and Local Budget and Expenditures"/>
+	<JELCodeToValue code="H73" value="State and Local Government; Intergovernmental Relations: Interjurisdictional Differentials and Their Effects"/>
+	<JELCodeToValue code="H74" value="State and Local Borrowing"/>
+	<JELCodeToValue code="H75" value="State and Local Government: Health; Education; Welfare; Public Pensions"/>
+	<JELCodeToValue code="H76" value="State and Local Government: Other Expenditure Categories"/>
+	<JELCodeToValue code="H77" value="Intergovernmental Relations; Federalism; Secession"/>
+	<JELCodeToValue code="H79" value="State and Local Government; Intergovernmental Relations: Other"/>
+	<JELCodeToValue code="H8" value="Miscellaneous Issues"/>
+	<JELCodeToValue code="H80" value="Public Economics: Miscellaneous Issues: General"/>
+	<JELCodeToValue code="H81" value="Governmental Loans, Loan Guarantees, Credits, and Grants"/>
+	<JELCodeToValue code="H82" value="Governmental Property"/>
+	<JELCodeToValue code="H83" value="Public Administration; Public Sector Accounting and Audits"/>
+	<JELCodeToValue code="H87" value="International Fiscal Issues; International Public Goods"/>
+	<JELCodeToValue code="H89" value="Public Economics: Miscellaneous Issues: Other"/>
+	<JELCodeToValue code="I" value="Health, Education, and Welfare"/>
+	<JELCodeToValue code="I0" value="General"/>
+	<JELCodeToValue code="I00" value="Health, Education, and Welfare: General"/>
+	<JELCodeToValue code="I1" value="Health"/>
+	<JELCodeToValue code="I10" value="Health: General"/>
+	<JELCodeToValue code="I11" value="Analysis of Health Care Markets"/>
+	<JELCodeToValue code="I12" value="Health Production"/>
+	<JELCodeToValue code="I18" value="Health: Government Policy; Regulation; Public Health"/>
+	<JELCodeToValue code="I19" value="Health: Other"/>
+	<JELCodeToValue code="I2" value="Education"/>
+	<JELCodeToValue code="I20" value="Education and Research Institutions: General"/>
+	<JELCodeToValue code="I21" value="Analysis of Education"/>
+	<JELCodeToValue code="I22" value="Educational Finance"/>
+	<JELCodeToValue code="I23" value="Higher Education and Research Institutions"/>
+	<JELCodeToValue code="I28" value="Education: Government Policy"/>
+	<JELCodeToValue code="I29" value="Education: Other"/>
+	<JELCodeToValue code="I3" value="Welfare and Poverty"/>
+	<JELCodeToValue code="I30" value="Welfare and Poverty: General"/>
+	<JELCodeToValue code="I31" value="General Welfare"/>
+	<JELCodeToValue code="I32" value="Measurement and Analysis of Poverty"/>
+	<JELCodeToValue code="I38" value="Welfare and Poverty: Government Programs; Provision and Effects of Welfare Programs"/>
+	<JELCodeToValue code="I39" value="Welfare and Poverty: Other"/>
+	<JELCodeToValue code="J" value="Labor and Demographic Economics"/>
+	<JELCodeToValue code="J0" value="General"/>
+	<JELCodeToValue code="J00" value="Labor and Demographic Economics: General"/>
+	<JELCodeToValue code="J01" value="Labor Economics: General"/>
+	<JELCodeToValue code="J08" value="Labor Economics Policies"/>
+	<JELCodeToValue code="J1" value="Demographic Economics"/>
+	<JELCodeToValue code="J10" value="Demographic Economics: General"/>
+	<JELCodeToValue code="J11" value="Demographic Trends and Forecasts; General Migration"/>
+	<JELCodeToValue code="J12" value="Marriage; Marital Dissolution; Family Structure; Domestic Abuse"/>
+	<JELCodeToValue code="J13" value="Fertility; Family Planning; Child Care; Children; Youth"/>
+	<JELCodeToValue code="J14" value="Economics of the Elderly; Economics of the Handicapped; Non-labor Market Discrimination"/>
+	<JELCodeToValue code="J15" value="Economics of Minorities and Races; Non-labor Discrimination"/>
+	<JELCodeToValue code="J16" value="Economics of Gender; Non-labor Discrimination"/>
+	<JELCodeToValue code="J17" value="Value of Life; Forgone Income"/>
+	<JELCodeToValue code="J18" value="Demographic Economics: Public Policy"/>
+	<JELCodeToValue code="J19" value="Demographic Economics: Other"/>
+	<JELCodeToValue code="J2" value="Demand and Supply of Labor"/>
+	<JELCodeToValue code="J20" value="Demand and Supply of Labor: General"/>
+	<JELCodeToValue code="J21" value="Labor Force and Employment, Size, and Structure"/>
+	<JELCodeToValue code="J22" value="Time Allocation and Labor Supply"/>
+	<JELCodeToValue code="J23" value="Labor Demand"/>
+	<JELCodeToValue code="J24" value="Human Capital; Skills; Occupational Choice; Labor Productivity"/>
+	<JELCodeToValue code="J26" value="Retirement; Retirement Policies"/>
+	<JELCodeToValue code="J28" value="Safety; Job Satisfaction; Related Public Policy"/>
+	<JELCodeToValue code="J29" value="Time Allocation, Work Behavior, and Employment Determination: Other"/>
+	<JELCodeToValue code="J3" value="Wages, Compensation, and Labor Costs"/>
+	<JELCodeToValue code="J30" value="Wages, Compensation, and Labor Costs: General"/>
+	<JELCodeToValue code="J31" value="Wage Level and Structure; Wage Differentials"/>
+	<JELCodeToValue code="J32" value="Nonwage Labor Costs and Benefits; Private Pensions"/>
+	<JELCodeToValue code="J33" value="Compensation Packages; Payment Methods"/>
+	<JELCodeToValue code="J38" value="Wages, Compensation, and Labor Costs: Public Policy"/>
+	<JELCodeToValue code="J39" value="Wages, Compensation, and Labor Costs: Other"/>
+	<JELCodeToValue code="J4" value="Particular Labor Markets"/>
+	<JELCodeToValue code="J40" value="Particular Labor Markets: General"/>
+	<JELCodeToValue code="J41" value="Labor Contracts"/>
+	<JELCodeToValue code="J42" value="Monopsony; Segmented Labor Markets"/>
+	<JELCodeToValue code="J43" value="Agricultural Labor Markets"/>
+	<JELCodeToValue code="J44" value="Professional Labor Markets; Occupational Licensing"/>
+	<JELCodeToValue code="J45" value="Public Sector Labor Markets"/>
+	<JELCodeToValue code="J47" value="Coercive Labor Markets"/>
+	<JELCodeToValue code="J48" value="Particular Labor Markets: Public Policy"/>
+	<JELCodeToValue code="J49" value="Particular Labor Markets: Other"/>
+	<JELCodeToValue code="J5" value="Labor-Management Relations, Trade Unions, and Collective Bargaining"/>
+	<JELCodeToValue code="J50" value="Labor-Management Relations, Trade Unions, and Collective Bargaining: General"/>
+	<JELCodeToValue code="J51" value="Trade Unions: Objectives, Structure, and Effects"/>
+	<JELCodeToValue code="J52" value="Dispute Resolution: Strikes, Arbitration, and Mediation; Collective Bargaining"/>
+	<JELCodeToValue code="J53" value="Labor-Management Relations; Industrial Jurisprudence"/>
+	<JELCodeToValue code="J54" value="Producer Cooperatives; Labor Managed Firms; Employee Ownership"/>
+	<JELCodeToValue code="J58" value="Labor-Management Relations, Trade Unions, and Collective Bargaining: Public Policy"/>
+	<JELCodeToValue code="J59" value="Labor-Management Relations, Trade Unions, and Collective Bargaining: Other"/>
+	<JELCodeToValue code="J6" value="Mobility, Unemployment, and Vacancies"/>
+	<JELCodeToValue code="J60" value="Mobility, Unemployment, and Vacancies: General"/>
+	<JELCodeToValue code="J61" value="Geographic Labor Mobility; Immigrant Workers"/>
+	<JELCodeToValue code="J62" value="Job, Occupational, and Intergenerational Mobility; Promotion"/>
+	<JELCodeToValue code="J63" value="Labor Turnover; Vacancies; Layoffs"/>
+	<JELCodeToValue code="J64" value="Unemployment: Models, Duration, Incidence, and Job Search"/>
+	<JELCodeToValue code="J65" value="Unemployment Insurance; Severance Pay; Plant Closings"/>
+	<JELCodeToValue code="J68" value="Mobility, Unemployment, and Vacancies: Public Policy"/>
+	<JELCodeToValue code="J69" value="Mobility, Unemployment, and Vacancies: Other"/>
+	<JELCodeToValue code="J7" value="Labor Discrimination"/>
+	<JELCodeToValue code="J70" value="Labor Discrimination: General"/>
+	<JELCodeToValue code="J71" value="Labor Discrimination"/>
+	<JELCodeToValue code="J78" value="Labor Discrimination: Public Policy"/>
+	<JELCodeToValue code="J79" value="Labor Discrimination: Other"/>
+	<JELCodeToValue code="J8" value="Labor Standards: National and International"/>
+	<JELCodeToValue code="J80" value="Labor Standards: General"/>
+	<JELCodeToValue code="J81" value="Labor Standards: Working Conditions"/>
+	<JELCodeToValue code="J82" value="Labor Standards: Labor Force Composition"/>
+	<JELCodeToValue code="J83" value="Labor Standards: Workers' Rights"/>
+	<JELCodeToValue code="J88" value="Labor Standards: Public Policy"/>
+	<JELCodeToValue code="J89" value="Labor Standards: Other"/>
+	<JELCodeToValue code="K" value="Law and Economics"/>
+	<JELCodeToValue code="K0" value="General"/>
+	<JELCodeToValue code="K00" value="Law and Economics: General"/>
+	<JELCodeToValue code="K1" value="Basic Areas of Law"/>
+	<JELCodeToValue code="K10" value="Basic Areas of Law: General (Constitutional Law)"/>
+	<JELCodeToValue code="K11" value="Property Law"/>
+	<JELCodeToValue code="K12" value="Contract Law"/>
+	<JELCodeToValue code="K13" value="Tort Law and Product Liability"/>
+	<JELCodeToValue code="K14" value="Criminal Law"/>
+	<JELCodeToValue code="K19" value="Basic Areas of Law: Other"/>
+	<JELCodeToValue code="K2" value="Regulation and Business Law"/>
+	<JELCodeToValue code="K20" value="Regulation and Business Law: General"/>
+	<JELCodeToValue code="K21" value="Antitrust Law"/>
+	<JELCodeToValue code="K22" value="Corporation and Securities Law"/>
+	<JELCodeToValue code="K23" value="Regulated Industries and Administrative Law"/>
+	<JELCodeToValue code="K29" value="Regulation and Business Law: Other"/>
+	<JELCodeToValue code="K3" value="Other Substantive Areas of Law"/>
+	<JELCodeToValue code="K30" value="Other Substantive Areas of Law: General"/>
+	<JELCodeToValue code="K31" value="Labor Law"/>
+	<JELCodeToValue code="K32" value="Environmental, Health, and Safety Law"/>
+	<JELCodeToValue code="K33" value="International Law"/>
+	<JELCodeToValue code="K34" value="Tax Law"/>
+	<JELCodeToValue code="K35" value="Personal Bankruptcy Law"/>
+	<JELCodeToValue code="K36" value="Family and Personal Law"/>
+	<JELCodeToValue code="K39" value="Other Substantive Areas of Law: Other"/>
+	<JELCodeToValue code="K4" value="Legal Procedure, the Legal System, and Illegal Behavior"/>
+	<JELCodeToValue code="K40" value="Legal Procedure, the Legal System, and Illegal Behavior: General"/>
+	<JELCodeToValue code="K41" value="Litigation Process"/>
+	<JELCodeToValue code="K42" value="Illegal Behavior and the Enforcement of Law"/>
+	<JELCodeToValue code="K49" value="Legal Procedure, the Legal System, and Illegal Behavior: Other"/>
+	<JELCodeToValue code="L" value="Industrial Organization"/>
+	<JELCodeToValue code="L0" value="General"/>
+	<JELCodeToValue code="L00" value="Industrial Organization: General"/>
+	<JELCodeToValue code="L1" value="Market Structure, Firm Strategy, and Market Performance"/>
+	<JELCodeToValue code="L10" value="Market Structure, Firm Strategy, and Market Performance: General"/>
+	<JELCodeToValue code="L11" value="Production, Pricing, and Market Structure; Size Distribution of Firms"/>
+	<JELCodeToValue code="L12" value="Monopoly; Monopolization Strategies"/>
+	<JELCodeToValue code="L13" value="Oligopoly and Other Imperfect Markets"/>
+	<JELCodeToValue code="L14" value="Transactional Relationships; Contracts and Reputation; Networks"/>
+	<JELCodeToValue code="L15" value="Information and Product Quality; Standardization and Compatibility"/>
+	<JELCodeToValue code="L16" value="Industrial Organization and Macroeconomics: Industrial Structure and Structural Change; Industrial Price Indices"/>
+	<JELCodeToValue code="L17" value="Open Source Products and Markets"/>
+	<JELCodeToValue code="L19" value="Market Structure, Firm Strategy, and Market Performance: Other"/>
+	<JELCodeToValue code="L2" value="Firm Objectives, Organization, and Behavior"/>
+	<JELCodeToValue code="L20" value="Firm Objectives, Organization, and Behavior: General"/>
+	<JELCodeToValue code="L21" value="Business Objectives of the Firm"/>
+	<JELCodeToValue code="L22" value="Firm Organization and Market Structure"/>
+	<JELCodeToValue code="L23" value="Organization of Production"/>
+	<JELCodeToValue code="L24" value="Contracting Out; Joint Ventures; Technology Licensing"/>
+	<JELCodeToValue code="L25" value="Firm Performance: Size, Diversification, and Scope"/>
+	<JELCodeToValue code="L26" value="Entrepreneurship"/>
+	<JELCodeToValue code="L29" value="Firm Objectives, Organization, and Behavior: Other"/>
+	<JELCodeToValue code="L3" value="Nonprofit Organizations and Public Enterprise"/>
+	<JELCodeToValue code="L30" value="Nonprofit Organizations and Public Enterprise: General"/>
+	<JELCodeToValue code="L31" value="Nonprofit Institutions; NGOs"/>
+	<JELCodeToValue code="L32" value="Public Enterprises; Public-Private Enterprises"/>
+	<JELCodeToValue code="L33" value="Comparison of Public and Private Enterprises and Nonprofit Institutions; Privatization; Contracting Out"/>
+	<JELCodeToValue code="L38" value="Public Policy"/>
+	<JELCodeToValue code="L39" value="Nonprofit Organizations and Public Enterprise: Other"/>
+	<JELCodeToValue code="L4" value="Antitrust Issues and Policies"/>
+	<JELCodeToValue code="L40" value="Antitrust Issues and Policies: General"/>
+	<JELCodeToValue code="L41" value="Monopolization; Horizontal Anticompetitive Practices"/>
+	<JELCodeToValue code="L42" value="Vertical Restraints; Resale Price Maintenance; Quantity Discounts"/>
+	<JELCodeToValue code="L43" value="Legal Monopolies and Regulation or Deregulation"/>
+	<JELCodeToValue code="L44" value="Antitrust Policy and Public Enterprises, Nonprofit Institutions, and Professional Organizations"/>
+	<JELCodeToValue code="L49" value="Antitrust Policy: Other"/>
+	<JELCodeToValue code="L5" value="Regulation and Industrial Policy"/>
+	<JELCodeToValue code="L50" value="Regulation and Industrial Policy: General"/>
+	<JELCodeToValue code="L51" value="Economics of Regulation"/>
+	<JELCodeToValue code="L52" value="Industrial Policy; Sectoral Planning Methods"/>
+	<JELCodeToValue code="L53" value="Enterprise Policy"/>
+	<JELCodeToValue code="L59" value="Regulation and Industrial Policy: Other"/>
+	<JELCodeToValue code="L6" value="Industry Studies: Manufacturing"/>
+	<JELCodeToValue code="L60" value="Industry Studies: Manufacturing: General"/>
+	<JELCodeToValue code="L61" value="Metals and Metal Products; Cement; Glass; Ceramics"/>
+	<JELCodeToValue code="L62" value="Automobiles; Other Transportation Equipment"/>
+	<JELCodeToValue code="L63" value="Microelectronics; Computers; Communications Equipment"/>
+	<JELCodeToValue code="L64" value="Other Machinery; Business Equipment; Armaments"/>
+	<JELCodeToValue code="L65" value="Chemicals; Rubber; Drugs; Biotechnology"/>
+	<JELCodeToValue code="L66" value="Food; Beverages; Cosmetics; Tobacco; Wine and Spirits"/>
+	<JELCodeToValue code="L67" value="Other Consumer Nondurables"/>
+	<JELCodeToValue code="L68" value="Appliances; Other Consumer Durables"/>
+	<JELCodeToValue code="L69" value="Industry Studies: Manufacturing: Other"/>
+	<JELCodeToValue code="L7" value="Industry Studies: Primary Products and Construction"/>
+	<JELCodeToValue code="L70" value="Industry Studies: Primary Products and Construction: General"/>
+	<JELCodeToValue code="L71" value="Mining, Extraction, and Refining: Hydrocarbon Fuels"/>
+	<JELCodeToValue code="L72" value="Mining, Extraction, and Refining: Other Nonrenewable Resources"/>
+	<JELCodeToValue code="L73" value="Forest Products"/>
+	<JELCodeToValue code="L74" value="Construction"/>
+	<JELCodeToValue code="L78" value="Industry Studies: Primary Products and Construction: Government Policy"/>
+	<JELCodeToValue code="L79" value="Industry Studies: Primary Products and Construction: Other"/>
+	<JELCodeToValue code="L8" value="Industry Studies: Services"/>
+	<JELCodeToValue code="L80" value="Industry Studies: Services: General"/>
+	<JELCodeToValue code="L81" value="Retail and Wholesale Trade; e-Commerce"/>
+	<JELCodeToValue code="L82" value="Entertainment; Media"/>
+	<JELCodeToValue code="L83" value="Sports; Gambling; Recreation; Tourism"/>
+	<JELCodeToValue code="L84" value="Personal, Professional, and Business Services"/>
+	<JELCodeToValue code="L85" value="Real Estate Services"/>
+	<JELCodeToValue code="L86" value="Information and Internet Services; Computer Software"/>
+	<JELCodeToValue code="L87" value="Postal and Delivery Services"/>
+	<JELCodeToValue code="L88" value="Industry Studies: Services: Government Policy"/>
+	<JELCodeToValue code="L89" value="Industry Studies: Services: Other"/>
+	<JELCodeToValue code="L9" value="Industry Studies: Transportation and Utilities"/>
+	<JELCodeToValue code="L90" value="Industry Studies: Transportation and Utilities: General"/>
+	<JELCodeToValue code="L91" value="Transportation: General"/>
+	<JELCodeToValue code="L92" value="Railroads and Other Surface Transportation"/>
+	<JELCodeToValue code="L93" value="Air Transportation"/>
+	<JELCodeToValue code="L94" value="Electric Utilities"/>
+	<JELCodeToValue code="L95" value="Gas Utilities; Pipelines; Water Utilities"/>
+	<JELCodeToValue code="L96" value="Telecommunications"/>
+	<JELCodeToValue code="L97" value="Utilities: General"/>
+	<JELCodeToValue code="L98" value="Industry Studies: Utilities and Transportation: Government Policy"/>
+	<JELCodeToValue code="L99" value="Industry Studies: Utilities and Transportation: Other"/>
+	<JELCodeToValue code="M" value="Business Administration and Business Economics; Marketing; Accounting"/>
+	<JELCodeToValue code="M0" value="General"/>
+	<JELCodeToValue code="M00" value="Business Administration and Business Economics; Marketing; Accounting: General"/>
+	<JELCodeToValue code="M1" value="Business Administration"/>
+	<JELCodeToValue code="M10" value="Business Administration: General"/>
+	<JELCodeToValue code="M11" value="Production Management"/>
+	<JELCodeToValue code="M12" value="Personnel Management; Executive Compensation"/>
+	<JELCodeToValue code="M13" value="New Firms; Startups"/>
+	<JELCodeToValue code="M14" value="Corporate Culture; Social Responsibility"/>
+	<JELCodeToValue code="M15" value="IT Management"/>
+	<JELCodeToValue code="M16" value="International Business Administration"/>
+	<JELCodeToValue code="M19" value="Business Administration: Other"/>
+	<JELCodeToValue code="M2" value="Business Economics"/>
+	<JELCodeToValue code="M20" value="Business Economics: General"/>
+	<JELCodeToValue code="M21" value="Business Economics"/>
+	<JELCodeToValue code="M29" value="Business Economics: Other"/>
+	<JELCodeToValue code="M3" value="Marketing and Advertising"/>
+	<JELCodeToValue code="M30" value="Marketing and Advertising: General"/>
+	<JELCodeToValue code="M31" value="Marketing"/>
+	<JELCodeToValue code="M37" value="Advertising"/>
+	<JELCodeToValue code="M38" value="Marketing and Advertising: Government Policy and Regulation"/>
+	<JELCodeToValue code="M39" value="Marketing and Advertising: Other"/>
+	<JELCodeToValue code="M4" value="Accounting and Auditing"/>
+	<JELCodeToValue code="M40" value="Accounting and Auditing: General"/>
+	<JELCodeToValue code="M41" value="Accounting"/>
+	<JELCodeToValue code="M42" value="Auditing"/>
+	<JELCodeToValue code="M48" value="Accounting and Auditing: Government Policy and Regulation"/>
+	<JELCodeToValue code="M49" value="Accounting: Other"/>
+	<JELCodeToValue code="M5" value="Personnel Economics"/>
+	<JELCodeToValue code="M50" value="Personnel Economics: General"/>
+	<JELCodeToValue code="M51" value="Personnel Economics: Firm Employment Decisions; Promotions"/>
+	<JELCodeToValue code="M52" value="Personnel Economics: Compensation and Compensation Methods and Their Effects"/>
+	<JELCodeToValue code="M53" value="Personnel Economics: Training"/>
+	<JELCodeToValue code="M54" value="Personnel Economics: Labor Management"/>
+	<JELCodeToValue code="M55" value="Personnel Economics: Labor Contracting Devices"/>
+	<JELCodeToValue code="M59" value="Personnel Economics: Other"/>
+	<JELCodeToValue code="N" value="Economic History"/>
+	<JELCodeToValue code="N0" value="General"/>
+	<JELCodeToValue code="N00" value="Economic History: General"/>
+	<JELCodeToValue code="N01" value="Development of the Discipline: Historiographical; Sources and Methods"/>
+	<JELCodeToValue code="N1" value="Macroeconomics and Monetary Economics; Growth and Fluctuations"/>
+	<JELCodeToValue code="N10" value="Economic History: Macroeconomics and Monetary Economics; Growth and Fluctuations: General, International, or Comparative"/>
+	<JELCodeToValue code="N11" value="Economic History: Macroeconomics; Growth and Fluctuations: U.S.; Canada: Pre-1913"/>
+	<JELCodeToValue code="N12" value="Economic History: Macroeconomics; Growth and Fluctuations: U.S.; Canada: 1913-"/>
+	<JELCodeToValue code="N13" value="Economic History: Macroeconomics; Growth and Fluctuations: Europe: Pre-1913"/>
+	<JELCodeToValue code="N14" value="Economic History: Macroeconomics; Growth and Fluctuations: Europe: 1913-"/>
+	<JELCodeToValue code="N15" value="Economic History: Macroeconomics; Growth and Fluctuations: Asia including Middle East"/>
+	<JELCodeToValue code="N16" value="Economic History: Macroeconomics; Growth and Fluctuations: Latin America; Caribbean"/>
+	<JELCodeToValue code="N17" value="Economic History: Macroeconomics; Growth and Fluctuations: Africa; Oceania"/>
+	<JELCodeToValue code="N2" value="Financial Markets and Institutions"/>
+	<JELCodeToValue code="N20" value="Economic History: Financial Markets and Institutions: General, International, or Comparative"/>
+	<JELCodeToValue code="N21" value="Economic History: Financial Markets and Institutions: U.S.; Canada: Pre-1913"/>
+	<JELCodeToValue code="N22" value="Economic History: Financial Markets and Institutions: U.S.; Canada: 1913-"/>
+	<JELCodeToValue code="N23" value="Economic History: Financial Markets and Institutions: Europe: Pre-1913"/>
+	<JELCodeToValue code="N24" value="Economic History: Financial Markets and Institutions: Europe: 1913-"/>
+	<JELCodeToValue code="N25" value="Economic History: Financial Markets and Institutions: Asia including Middle East"/>
+	<JELCodeToValue code="N26" value="Economic History: Financial Markets and Institutions: Latin America; Caribbean"/>
+	<JELCodeToValue code="N27" value="Economic History: Financial Markets and Institutions: Africa; Oceania"/>
+	<JELCodeToValue code="N3" value="Labor and Consumers, Demography, Education, Health, Income, and Wealth"/>
+	<JELCodeToValue code="N30" value="Economic History: Labor and Consumers, Demography, Education, Health, Welfare, Income, Wealth, Religion, and Philanthropy: General, International, or Comparative"/>
+	<JELCodeToValue code="N31" value="Economic History: Labor and Consumers, Demography, Education, Health, Welfare, Income, Wealth, Religion, and Philanthropy: U.S.; Canada: Pre-1913"/>
+	<JELCodeToValue code="N32" value="Economic History: Labor and Consumers, Demography, Education, Health, Welfare, Income, Wealth, Religion, and Philanthropy: U.S.; Canada: 1913-"/>
+	<JELCodeToValue code="N33" value="Economic History: Labor and Consumers, Demography, Education, Health, Welfare, Income, Wealth, Religion, and Philanthropy: Europe: Pre-1913"/>
+	<JELCodeToValue code="N34" value="Economic History: Labor and Consumers, Demography, Education, Health, Welfare, Income, Wealth, Religion, and Philanthropy: Europe: 1913-"/>
+	<JELCodeToValue code="N35" value="Economic History: Labor and Consumers, Demography, Education, Health, Welfare, Income, Wealth, Religion, and Philanthropy: Asia including Middle East"/>
+	<JELCodeToValue code="N36" value="Economic History: Labor and Consumers, Demography, Education, Health, Welfare, Income, Wealth, Religion, and Philanthropy: Latin America; Caribbean"/>
+	<JELCodeToValue code="N37" value="Economic History: Labor and Consumers, Demography, Education, Health, Welfare, Income, Wealth, Religion, and Philanthropy: Africa; Oceania"/>
+	<JELCodeToValue code="N4" value="Government, War, Law, and Regulation"/>
+	<JELCodeToValue code="N40" value="Economic History: Government, War, Law, International Relations, and Regulation: General, International, or Comparative"/>
+	<JELCodeToValue code="N41" value="Economic History: Government, War, Law, International Relations, and Regulation: U.S.; Canada: Pre-1913"/>
+	<JELCodeToValue code="N42" value="Economic History: Government, War, Law, International Relations, and Regulation: U.S.; Canada: 1913-"/>
+	<JELCodeToValue code="N43" value="Economic History: Government, War, Law, International Relations, and Regulation: Europe: Pre-1913"/>
+	<JELCodeToValue code="N44" value="Economic History: Government, War, Law, International Relations, and Regulation: Europe: 1913-"/>
+	<JELCodeToValue code="N45" value="Economic History: Government, War, Law, International Relations, and Regulation: Asia including Middle East"/>
+	<JELCodeToValue code="N46" value="Economic History: Government, War, Law, International Relations, and Regulation: Latin America; Caribbean"/>
+	<JELCodeToValue code="N47" value="Economic History: Government, War, Law, International Relations, and Regulation: Africa; Oceania"/>
+	<JELCodeToValue code="N5" value="Agriculture, Natural Resources, Environment, and Extractive Industries"/>
+	<JELCodeToValue code="N50" value="Economic History: Agriculture, Natural Resources, Environment, and Extractive Industries: General, International, or Comparative"/>
+	<JELCodeToValue code="N51" value="Economic History: Agriculture, Natural Resources, Environment, and Extractive Industries: U.S.; Canada: Pre-1913"/>
+	<JELCodeToValue code="N52" value="Economic History: Agriculture, Natural Resources, Environment, and Extractive Industries: U.S.; Canada: 1913-"/>
+	<JELCodeToValue code="N53" value="Economic History: Agriculture, Natural Resources, Environment, and Extractive Industries: Europe: Pre-1913"/>
+	<JELCodeToValue code="N54" value="Economic History: Agriculture, Natural Resources, Environment, and Extractive Industries: Europe: 1913-"/>
+	<JELCodeToValue code="N55" value="Economic History: Agriculture, Natural Resources, Environment, and Extractive Industries: Asia including Middle East"/>
+	<JELCodeToValue code="N56" value="Economic History: Agriculture, Natural Resources, Environment, and Extractive Industries: Latin America; Caribbean"/>
+	<JELCodeToValue code="N57" value="Economic History: Agriculture, Natural Resources, Environment, and Extractive Industries: Africa; Oceania"/>
+	<JELCodeToValue code="N6" value="Manufacturing and Construction"/>
+	<JELCodeToValue code="N60" value="Economic History: Manufacturing and Construction: General, International, or Comparative"/>
+	<JELCodeToValue code="N61" value="Economic History: Manufacturing and Construction: U.S.; Canada: Pre-1913"/>
+	<JELCodeToValue code="N62" value="Economic History: Manufacturing and Construction: U.S.; Canada: 1913-"/>
+	<JELCodeToValue code="N63" value="Economic History: Manufacturing and Construction: Europe: Pre-1913"/>
+	<JELCodeToValue code="N64" value="Economic History: Manufacturing and Construction: Europe: 1913-"/>
+	<JELCodeToValue code="N65" value="Economic History: Manufacturing and Construction: Asia including Middle East"/>
+	<JELCodeToValue code="N66" value="Economic History: Manufacturing and Construction: Latin America; Caribbean"/>
+	<JELCodeToValue code="N67" value="Economic History: Manufacturing and Construction: Africa; Oceania"/>
+	<JELCodeToValue code="N7" value="Transport, Trade, Energy, Technology, and Other Services"/>
+	<JELCodeToValue code="N70" value="Economic History: Transport, International and Domestic Trade, Energy, Technology, and Other Services: General, International, or Comparative"/>
+	<JELCodeToValue code="N71" value="Economic History: Transport, Trade, Energy, Technology, and Other Services: U.S.; Canada: Pre-1913"/>
+	<JELCodeToValue code="N72" value="Economic History: Transport, Trade, Energy, Technology, and Other Services: U.S.; Canada: 1913-"/>
+	<JELCodeToValue code="N73" value="Economic History: Transport, Trade, Energy, Technology, and Other Services: Europe: Pre-1913"/>
+	<JELCodeToValue code="N74" value="Economic History: Transport, Trade, Energy, Technology, and Other Services: Europe: 1913-"/>
+	<JELCodeToValue code="N75" value="Economic History: Transport, Trade, Energy, Technology, and Other Services: Asia including Middle East"/>
+	<JELCodeToValue code="N76" value="Economic History: Transport, Trade, Energy, Technology, and Other Services: Latin America; Caribbean"/>
+	<JELCodeToValue code="N77" value="Economic History: Transport, Trade, Energy, Technology, and Other Services: Africa; Oceania"/>
+	<JELCodeToValue code="N8" value="Micro-Business History"/>
+	<JELCodeToValue code="N80" value="Micro-Business History: General, International, or Comparative"/>
+	<JELCodeToValue code="N81" value="Micro-Business History: U.S.; Canada: Pre-1913"/>
+	<JELCodeToValue code="N82" value="Micro-Business History: U.S.; Canada: 1913-"/>
+	<JELCodeToValue code="N83" value="Micro-Business History: Europe: Pre-1913"/>
+	<JELCodeToValue code="N84" value="Micro-Business History: Europe: 1913-"/>
+	<JELCodeToValue code="N85" value="Micro-Business History: Asia including Middle East"/>
+	<JELCodeToValue code="N86" value="Micro-Business History: Latin America; Caribbean"/>
+	<JELCodeToValue code="N87" value="Micro-Business History: Africa; Oceania"/>
+	<JELCodeToValue code="N9" value="Regional and Urban History"/>
+	<JELCodeToValue code="N90" value="Regional and Urban History: General"/>
+	<JELCodeToValue code="N91" value="Regional and Urban History: U.S.; Canada: Pre-1913"/>
+	<JELCodeToValue code="N92" value="Regional and Urban History: U.S.; Canada: 1913-"/>
+	<JELCodeToValue code="N93" value="Regional and Urban History: Europe: Pre-1913"/>
+	<JELCodeToValue code="N94" value="Regional and Urban History: Europe: 1913-"/>
+	<JELCodeToValue code="N95" value="Regional and Urban History: Asia including Middle East"/>
+	<JELCodeToValue code="N96" value="Regional and Urban History: Latin America; Caribbean"/>
+	<JELCodeToValue code="N97" value="Regional and Urban History: Africa; Oceania"/>
+	<JELCodeToValue code="O" value="Economic Development, Technological Change, and Growth"/>
+	<JELCodeToValue code="O1" value="Economic Development"/>
+	<JELCodeToValue code="O10" value="Economic Development: General"/>
+	<JELCodeToValue code="O11" value="Macroeconomic Analyses of Economic Development"/>
+	<JELCodeToValue code="O12" value="Microeconomic Analyses of Economic Development"/>
+	<JELCodeToValue code="O13" value="Economic Development: Agriculture; Natural Resources; Energy; Environment; Other Primary Products"/>
+	<JELCodeToValue code="O14" value="Industrialization; Manufacturing and Service Industries; Choice of Technology"/>
+	<JELCodeToValue code="O15" value="Economic Development: Human Resources; Human Development; Income Distribution; Migration"/>
+	<JELCodeToValue code="O16" value="Economic Development: Financial Markets; Saving and Capital Investment; Corporate Finance and Governance"/>
+	<JELCodeToValue code="O17" value="Formal and Informal Sectors; Shadow Economy; Institutional Arrangements"/>
+	<JELCodeToValue code="O18" value="Economic Development: Regional, Urban, and Rural Analyses; Transportation"/>
+	<JELCodeToValue code="O19" value="International Linkages to Development; Role of International Organizations"/>
+	<JELCodeToValue code="O2" value="Development Planning and Policy"/>
+	<JELCodeToValue code="O20" value="Development Planning and Policy: General"/>
+	<JELCodeToValue code="O21" value="Planning Models; Planning Policy"/>
+	<JELCodeToValue code="O22" value="Project Analysis"/>
+	<JELCodeToValue code="O23" value="Fiscal and Monetary Policy in Development"/>
+	<JELCodeToValue code="O24" value="Development Planning and Policy: Trade Policy; Factor Movement; Foreign Exchange Policy"/>
+	<JELCodeToValue code="O25" value="Industrial Policy"/>
+	<JELCodeToValue code="O29" value="Development Planning and Policy: Other"/>
+	<JELCodeToValue code="O3" value="Technological Change; Research and Development"/>
+	<JELCodeToValue code="O30" value="Technological Change; Research and Development: General"/>
+	<JELCodeToValue code="O31" value="Innovation and Invention: Processes and Incentives"/>
+	<JELCodeToValue code="O32" value="Management of Technological Innovation and R&amp;D"/>
+	<JELCodeToValue code="O33" value="Technological Change: Choices and Consequences; Diffusion Processes"/>
+	<JELCodeToValue code="O34" value="Intellectual Property Rights"/>
+	<JELCodeToValue code="O38" value="Technological Change: Government Policy"/>
+	<JELCodeToValue code="O39" value="Technological Change: Other"/>
+	<JELCodeToValue code="O4" value="Economic Growth and Aggregate Productivity"/>
+	<JELCodeToValue code="O40" value="Economic Growth and Aggregate Productivity: General"/>
+	<JELCodeToValue code="O41" value="One, Two, and Multisector Growth Models"/>
+	<JELCodeToValue code="O42" value="Monetary Growth Models"/>
+	<JELCodeToValue code="O43" value="Institutions and Growth"/>
+	<JELCodeToValue code="O44" value="Environment and Growth"/>
+	<JELCodeToValue code="O47" value="Measurement of Economic Growth; Aggregate Productivity; Cross-Country Output Convergence"/>
+	<JELCodeToValue code="O49" value="Economic Growth and Aggregate Productivity: Other"/>
+	<JELCodeToValue code="O5" value="Economywide Country Studies"/>
+	<JELCodeToValue code="O50" value="Economywide Country Studies: General"/>
+	<JELCodeToValue code="O51" value="Economywide Country Studies: U.S.; Canada"/>
+	<JELCodeToValue code="O52" value="Economywide Country Studies: Europe"/>
+	<JELCodeToValue code="O53" value="Economywide Country Studies: Asia including Middle East"/>
+	<JELCodeToValue code="O54" value="Economywide Country Studies: Latin America; Caribbean"/>
+	<JELCodeToValue code="O55" value="Economywide Country Studies: Africa"/>
+	<JELCodeToValue code="O56" value="Economywide Country Studies: Oceania"/>
+	<JELCodeToValue code="O57" value="Comparative Studies of Countries"/>
+	<JELCodeToValue code="P" value="Economic Systems"/>
+	<JELCodeToValue code="P0" value="General"/>
+	<JELCodeToValue code="P00" value="Economic Systems: General"/>
+	<JELCodeToValue code="P1" value="Capitalist Systems"/>
+	<JELCodeToValue code="P10" value="Capitalist Systems: General"/>
+	<JELCodeToValue code="P11" value="Capitalist Systems: Planning, Coordination, and Reform"/>
+	<JELCodeToValue code="P12" value="Capitalist Enterprises"/>
+	<JELCodeToValue code="P13" value="Cooperative Enterprises"/>
+	<JELCodeToValue code="P14" value="Capitalist Systems: Property Rights"/>
+	<JELCodeToValue code="P16" value="Capitalist Systems: Political Economy"/>
+	<JELCodeToValue code="P17" value="Capitalist Systems: Performance and Prospects"/>
+	<JELCodeToValue code="P19" value="Capitalist Systems: Other"/>
+	<JELCodeToValue code="P2" value="Socialist Systems and Transitional Economies"/>
+	<JELCodeToValue code="P20" value="Socialist Systems and Transitional Economies: General"/>
+	<JELCodeToValue code="P21" value="Socialist Systems and Transitional Economies: Planning, Coordination, and Reform"/>
+	<JELCodeToValue code="P22" value="Socialist Systems and Transitional Economies: Prices"/>
+	<JELCodeToValue code="P23" value="Socialist Systems and Transitional Economies: Factor and Product Markets; Industry Studies; Population"/>
+	<JELCodeToValue code="P24" value="Socialist Systems and Transitional Economies: National Income, Product, and Expenditure; Money; Inflation"/>
+	<JELCodeToValue code="P25" value="Socialist Systems and Transitional Economies: Urban, Rural, and Regional Economics"/>
+	<JELCodeToValue code="P26" value="Socialist Systems and Transitional Economies: Political Economy; Property Rights"/>
+	<JELCodeToValue code="P27" value="Socialist Systems and Transitional Economies: Performance and Prospects"/>
+	<JELCodeToValue code="P28" value="Socialist Systems and Transitional Economies: Natural Resources; Energy; Environment"/>
+	<JELCodeToValue code="P29" value="Socialist Systems and Transitional Economies: Other"/>
+	<JELCodeToValue code="P3" value="Socialist Institutions and Their Transitions"/>
+	<JELCodeToValue code="P30" value="Socialist Institutions and Their Transitions: General"/>
+	<JELCodeToValue code="P31" value="Socialist Enterprises and Their Transitions"/>
+	<JELCodeToValue code="P32" value="Collectives; Communes; Agriculture"/>
+	<JELCodeToValue code="P33" value="Socialist Institutions and Their Transitions: International Trade, Finance, Investment, and Aid"/>
+	<JELCodeToValue code="P34" value="Socialist Institutions and Their Transitions: Financial Economics"/>
+	<JELCodeToValue code="P35" value="Socialist Institutions and Their Transitions: Public Economics"/>
+	<JELCodeToValue code="P36" value="Socialist Institutions and Their Transitions: Consumer Economics; Health; Education and Training: Welfare, Income, Wealth, and Poverty"/>
+	<JELCodeToValue code="P37" value="Socialist Systems and Transitional Economies: Legal Institutions; Illegal Behavior"/>
+	<JELCodeToValue code="P39" value="Socialist Institutions and Their Transitions: Other"/>
+	<JELCodeToValue code="P4" value="Other Economic Systems"/>
+	<JELCodeToValue code="P40" value="Other Economic Systems: General"/>
+	<JELCodeToValue code="P41" value="Other Economic Systems: Planning, Coordination, and Reform"/>
+	<JELCodeToValue code="P42" value="Other Economic Systems: Productive Enterprises; Factor and Product Markets; Prices; Population"/>
+	<JELCodeToValue code="P43" value="Other Economic Systems: Public Economics; Financial Economics"/>
+	<JELCodeToValue code="P44" value="Other Economic Systems: National Income, Product, and Expenditure; Money; Inflation"/>
+	<JELCodeToValue code="P45" value="Other Economic Systems: International Trade, Finance, Investment and Aid"/>
+	<JELCodeToValue code="P46" value="Other Economic Systems: Consumer Economics; Health; Education and Training; Welfare, Income, Wealth, and Poverty"/>
+	<JELCodeToValue code="P47" value="Other Economic Systems: Performance and Prospects"/>
+	<JELCodeToValue code="P48" value="Other Economic Systems: Political Economy; Legal Institutions; Property Rights; Natural Resources; Energy; Environment; Regional Studies"/>
+	<JELCodeToValue code="P49" value="Other Economic Systems: Other"/>
+	<JELCodeToValue code="P5" value="Comparative Economic Systems"/>
+	<JELCodeToValue code="P50" value="Comparative Economic Systems: General"/>
+	<JELCodeToValue code="P51" value="Comparative Analysis of Economic Systems"/>
+	<JELCodeToValue code="P52" value="Comparative Studies of Particular Economies"/>
+	<JELCodeToValue code="P59" value="Comparative Economic Systems: Other"/>
+	<JELCodeToValue code="Q" value="Agricultural and Natural Resource Economics; Environmental and Ecological Economics"/>
+	<JELCodeToValue code="Q0" value="General"/>
+	<JELCodeToValue code="Q00" value="Agricultural and Natural Resource Economics; Environmental and Ecological Economics: General"/>
+	<JELCodeToValue code="Q01" value="Sustainable Development"/>
+	<JELCodeToValue code="Q02" value="Global Commodity Crises"/>
+	<JELCodeToValue code="Q1" value="Agriculture"/>
+	<JELCodeToValue code="Q10" value="Agriculture: General"/>
+	<JELCodeToValue code="Q11" value="Agriculture: Aggregate Supply and Demand Analysis; Prices"/>
+	<JELCodeToValue code="Q12" value="Micro Analysis of Farm Firms, Farm Households, and Farm Input Markets"/>
+	<JELCodeToValue code="Q13" value="Agricultural Markets and Marketing; Cooperatives; Agribusiness"/>
+	<JELCodeToValue code="Q14" value="Agricultural Finance"/>
+	<JELCodeToValue code="Q15" value="Land Ownership and Tenure; Land Reform; Land Use; Irrigation; Agriculture and Environment"/>
+	<JELCodeToValue code="Q16" value="Agricultural R&amp;D; Agricultural Technology; Biofuels; Agricultural Extension Services"/>
+	<JELCodeToValue code="Q17" value="Agriculture in International Trade"/>
+	<JELCodeToValue code="Q18" value="Agricultural Policy; Food Policy"/>
+	<JELCodeToValue code="Q19" value="Agriculture: Other"/>
+	<JELCodeToValue code="Q2" value="Renewable Resources and Conservation"/>
+	<JELCodeToValue code="Q20" value="Renewable Resources and Conservation: General"/>
+	<JELCodeToValue code="Q21" value="Renewable Resources and Conservation: Demand and Supply (the Commons)"/>
+	<JELCodeToValue code="Q22" value="Renewable Resources and Conservation: Fishery; Aquaculture"/>
+	<JELCodeToValue code="Q23" value="Renewable Resources and Conservation: Forestry"/>
+	<JELCodeToValue code="Q24" value="Renewable Resources and Conservation: Land"/>
+	<JELCodeToValue code="Q25" value="Renewable Resources and Conservation: Water"/>
+	<JELCodeToValue code="Q26" value="Recreational Aspects of Natural Resources"/>
+	<JELCodeToValue code="Q27" value="Renewable Resources and Conservation: Issues in International Trade"/>
+	<JELCodeToValue code="Q28" value="Renewable Resources and Conservation: Government Policy"/>
+	<JELCodeToValue code="Q29" value="Renewable Resources and Conservation: Other"/>
+	<JELCodeToValue code="Q3" value="Nonrenewable Resources and Conservation"/>
+	<JELCodeToValue code="Q30" value="Nonrenewable Resources and Conservation: General"/>
+	<JELCodeToValue code="Q31" value="Nonrenewable Resources and Conservation: Demand and Supply"/>
+	<JELCodeToValue code="Q32" value="Exhaustible Resources and Economic Development"/>
+	<JELCodeToValue code="Q33" value="Resource Booms"/>
+	<JELCodeToValue code="Q34" value="Natural Resources and Domestic and International Conflicts"/>
+	<JELCodeToValue code="Q38" value="Nonrenewable Resources and Conservation: Government Policy"/>
+	<JELCodeToValue code="Q39" value="Nonrenewable Resources and Conservation: Other"/>
+	<JELCodeToValue code="Q4" value="Energy"/>
+	<JELCodeToValue code="Q40" value="Energy: General"/>
+	<JELCodeToValue code="Q41" value="Energy: Demand and Supply"/>
+	<JELCodeToValue code="Q42" value="Alternative Energy Sources"/>
+	<JELCodeToValue code="Q43" value="Energy and the Macroeconomy"/>
+	<JELCodeToValue code="Q47" value="Energy Forecasting"/>
+	<JELCodeToValue code="Q48" value="Energy: Government Policy"/>
+	<JELCodeToValue code="Q49" value="Energy: Other"/>
+	<JELCodeToValue code="Q5" value="Environmental Economics"/>
+	<JELCodeToValue code="Q50" value="Environmental Economics: General"/>
+	<JELCodeToValue code="Q51" value="Valuation of Environmental Effects"/>
+	<JELCodeToValue code="Q52" value="Pollution Control Adoption Costs; Distributional Effects; Employment Effects"/>
+	<JELCodeToValue code="Q53" value="Air Pollution; Water Pollution; Noise; Hazardous Waste; Solid Waste; Recycling"/>
+	<JELCodeToValue code="Q54" value="Climate; Natural Disasters; Global Warming"/>
+	<JELCodeToValue code="Q55" value="Environmental Economics: Technological Innovation"/>
+	<JELCodeToValue code="Q56" value="Environment and Development; Environment and Trade; Sustainability; Environmental Accounts and Accounting; Environmental Equity; Population Growth"/>
+	<JELCodeToValue code="Q57" value="Ecological Economics: Ecosystem Services; Biodiversity Conservation; Industrial Ecology"/>
+	<JELCodeToValue code="Q58" value="Environmental Economics: Government Policy"/>
+	<JELCodeToValue code="Q59" value="Environmental Economics: Other"/>
+	<JELCodeToValue code="R" value="Urban, Rural, and Regional Economics"/>
+	<JELCodeToValue code="R0" value="General"/>
+	<JELCodeToValue code="R00" value="Urban, Rural, and Regional Economics: General"/>
+	<JELCodeToValue code="R1" value="General Regional Economics"/>
+	<JELCodeToValue code="R10" value="General Regional Economics (includes Regional Data)"/>
+	<JELCodeToValue code="R11" value="Regional Economic Activity: Growth, Development, and Changes"/>
+	<JELCodeToValue code="R12" value="Size and Spatial Distributions of Regional Economic Activity"/>
+	<JELCodeToValue code="R13" value="General Equilibrium and Welfare Economic Analysis of Regional Economies"/>
+	<JELCodeToValue code="R14" value="Land Use Patterns"/>
+	<JELCodeToValue code="R15" value="General Regional Economics: Econometric and Input-Output Models; Other Models"/>
+	<JELCodeToValue code="R19" value="General Regional Economics: Other"/>
+	<JELCodeToValue code="R2" value="Household Analysis"/>
+	<JELCodeToValue code="R20" value="Urban, Rural, and Regional Economics: Household Analysis: General"/>
+	<JELCodeToValue code="R21" value="Urban, Rural, and Regional Economics: Housing Demand"/>
+	<JELCodeToValue code="R22" value="Urban, Rural, and Regional Economics: Other Demand"/>
+	<JELCodeToValue code="R23" value="Urban, Rural, and Regional Economics: Regional Migration; Regional Labor Markets; Population; Neighborhood Characteristics"/>
+	<JELCodeToValue code="R28" value="Urban, Rural, and Regional Economics: Government Policy"/>
+	<JELCodeToValue code="R29" value="Urban, Rural, and Regional Economics: Household Analysis: Other"/>
+	<JELCodeToValue code="R3" value="Production Analysis and Firm Location"/>
+	<JELCodeToValue code="R30" value="Housing Markets, Production Analysis, and Firm Location: General"/>
+	<JELCodeToValue code="R31" value="Housing Supply and Markets"/>
+	<JELCodeToValue code="R32" value="Other Production and Pricing Analysis"/>
+	<JELCodeToValue code="R33" value="Nonagricultural and Nonresidential Real Estate Markets"/>
+	<JELCodeToValue code="R34" value="Production Analysis and Firm Location: Input Demand Analysis"/>
+	<JELCodeToValue code="R38" value="Production Analysis and Firm Location: Government Policies; Regulatory Policies"/>
+	<JELCodeToValue code="R39" value="Housing Markets, Production Analysis, and Firm Location: Other"/>
+	<JELCodeToValue code="R4" value="Transportation Systems"/>
+	<JELCodeToValue code="R40" value="Transportation Systems: General"/>
+	<JELCodeToValue code="R41" value="Transportation: Demand, Supply, and Congestion; Safety and Accidents; Transportation Noise"/>
+	<JELCodeToValue code="R42" value="Transportation Systems: Government and Private Investment Analysis; Road Maintenance, Transportation Planning"/>
+	<JELCodeToValue code="R48" value="Transportation Systems: Government Pricing; Regulatory Policies"/>
+	<JELCodeToValue code="R49" value="Transportation Systems: Other"/>
+	<JELCodeToValue code="R5" value="Regional Government Analysis"/>
+	<JELCodeToValue code="R50" value="Regional Government Analysis: General"/>
+	<JELCodeToValue code="R51" value="Finance in Urban and Rural Economies"/>
+	<JELCodeToValue code="R52" value="Regional Government Analysis: Land Use and Other Regulations"/>
+	<JELCodeToValue code="R53" value="Public Facility Location Analysis; Public Investment and Capital Stock"/>
+	<JELCodeToValue code="R58" value="Regional Development Planning and Policy"/>
+	<JELCodeToValue code="R59" value="Regional Government Analysis: Other"/>
+	<JELCodeToValue code="Y" value="Miscellaneous Categories"/>
+	<JELCodeToValue code="Y1" value="Data: Tables and Charts"/>
+	<JELCodeToValue code="Y10" value="Data: Tables and Charts"/>
+	<JELCodeToValue code="Y2" value="Introductions and Prefaces"/>
+	<JELCodeToValue code="Y20" value="Introductory Material"/>
+	<JELCodeToValue code="Y3" value="Book Reviews (unclassified)"/>
+	<JELCodeToValue code="Y30" value="Book Reviews (unclassified)"/>
+	<JELCodeToValue code="Y4" value="Dissertations (unclassified)"/>
+	<JELCodeToValue code="Y40" value="Dissertations (unclassified)"/>
+	<JELCodeToValue code="Y5" value="Further Reading (unclassified)"/>
+	<JELCodeToValue code="Y50" value="Further Reading (unclassified)"/>
+	<JELCodeToValue code="Y6" value="Excerpts"/>
+	<JELCodeToValue code="Y60" value="Excerpt"/>
+	<JELCodeToValue code="Y70" value="No Author General Discussions"/>
+	<JELCodeToValue code="Y8" value="Related Disciplines"/>
+	<JELCodeToValue code="Y80" value="Related Disciplines"/>
+	<JELCodeToValue code="Y9" value="Other"/>
+	<JELCodeToValue code="Y90" value="Miscellaneous Categories: Other"/>
+	<JELCodeToValue code="Y91" value="Pictures"/>
+	<JELCodeToValue code="Z" value="Other Special Topics"/>
+	<JELCodeToValue code="Z0" value="General"/>
+	<JELCodeToValue code="Z00" value="Other Special Topics: General"/>
+	<JELCodeToValue code="Z1" value="Cultural Economics; Economic Sociology; Economic Anthropology"/>
+	<JELCodeToValue code="Z10" value="Cultural Economics; Economic Sociology; Economic Anthropology: General"/>
+	<JELCodeToValue code="Z11" value="Cultural Economics: Economics of the Arts and Literature"/>
+	<JELCodeToValue code="Z12" value="Cultural Economics: Religion"/>
+	<JELCodeToValue code="Z13" value="Economic Sociology; Economic Anthropology; Social and Economic Stratification"/>
+	<JELCodeToValue code="Z19" value="Cultural Economics: Other"/>
+</JELLookUp>
